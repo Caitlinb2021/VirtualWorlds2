@@ -18,6 +18,11 @@ Assets obtained from [Unity Asset Store] (https://assetstore.unity.com/?gclid=1b
 - Sun Lounger single (Isabela-H) - CGTrader
 - Sun Lounger Double – CGTrader 
 
+#### Where To Get The Release
+[![DOI](https://zenodo.org/badge/553783166.svg)](https://zenodo.org/badge/latestdoi/553783166)
+<a href="https://zenodo.org/badge/latestdoi/553783166"><img src="https://zenodo.org/badge/553783166.svg" alt="DOI"></a>
+https://zenodo.org/badge/553783166.svg
+
 
 ![image](https://user-images.githubusercontent.com/115563114/197059810-d2eea653-b046-4545-b4c9-97d92d62eb4f.png)
 
